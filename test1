@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <title> Min Joeng's web </title>
+ <style>
+.first{width:1000px;margin-left:auto; margin-right:auto;box-sizing: border-box;}
+.two{width:100%;background-color:#034f84; color:#f7cac9; font-size:25pt; }
+.ttwo{ width:30%; height: 300px; float:left; }
+.third{width:70%;float:left; background-color:pink;}
+</style>
+</head>
+<body>
+ <div class="first">
+ <div class="two"> 
+ 
+ <h1> Min Joeng Kim's Web Pag </h1>
+ </div>
+ <div class="ttwo">
+ 	<p><img src="kim.jpg" alt="me" width="250" /></p>
+ </div>
+<div class="third">
+
+  <p> Min Joeng Kim </p>
+  <p> live in Daegu </p>
+  <p> Daegu gatholic University </p>
+ </ul></div>	
+</div>
+ </body>
+ </html> 
